@@ -1,0 +1,10 @@
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.Properties.Resources.resources
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.csproj.GenerateResource.Cache
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\bin\Debug\SunAnalysis.exe
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\bin\Debug\SunAnalysis.pdb
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.exe
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.pdb
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.csprojResolveAssemblyReference.cache
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.Form2.resources
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.Form3.resources
+E:\Study\毕业论文\code\demo\SunAnalysis\SunAnalysis\obj\Debug\SunAnalysis.日照分析工具.resources
